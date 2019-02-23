@@ -1,0 +1,9 @@
+{
+	"name": "com.bobbiegoede.smartbrush",
+	"displayName": "SmartBrush",
+	"version": "0.0.1",
+	"unity": "2018.3.5f1",
+	"description": "Custom brush which automatically selects a tilemap with the same name as the picked tile. Uses reflection to clear brush cache, may stop working when updating.",
+	"keywords": ["2d", "gridbrush", "smartbrush", "tilemap", "unity"],
+	"category": "Unity"
+}
