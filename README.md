@@ -27,4 +27,4 @@ For example:
 
 ## Possible improvements
 
-> -   Add support for mapping tiles to specific tilemap names so for example, ["Platform", "Ground"] would both switch the active tilemap to "Platform".
+-   Add support for mapping tiles to specific tilemap names so for example, ["Platform", "Ground"] would both switch the active tilemap to "Platform".
