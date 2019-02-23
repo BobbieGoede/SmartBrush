@@ -1,7 +1,7 @@
 {
 	"name": "com.bobbiegoede.smartbrush",
 	"displayName": "Smart Brush",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"unity": "2018.3.5f1",
 	"license": "MIT",
 	"description": "Custom brush which automatically selects a tilemap with the same name as the picked tile. Uses reflection to clear brush cache, may stop working when updating.",
