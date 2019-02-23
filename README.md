@@ -6,7 +6,12 @@ Tested on Unity 2018.3.5f1
 
 ## Installation
 
+Option 1
 Add `"com.bobbiegoede.smartbrush": "https://github.com/BobbieGoede/SmartBrush.git"` to your package manifest in `UnityProjectRoot > Packages > manifest.json`.
+
+Option 2
+Clone this repository and use the Package Manager `Window > Package Manager` to add the package.json in the root of this repository.
+
 
 ## Usage
 
