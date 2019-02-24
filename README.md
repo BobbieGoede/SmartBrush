@@ -5,7 +5,7 @@ Custom brush which automatically selects a tilemap with the same name as the pic
 Tested on Unity 2018.3.5f1
 
 ## Installation
-1. This package requires the sciprint runtime version to be set to `.NET 4.x Equivalent`, you can change this setting in `Project Settings > Player > Other Settings > Scripting Runtime Version`. The `.NET 4.x Equivalent` scripting runtime version is the default in Unity 2018.3 and higher.
+1. This package requires the scripting runtime version to be set to `.NET 4.x Equivalent`, you can change this setting in `Project Settings > Player > Other Settings > Scripting Runtime Version`. The `.NET 4.x Equivalent` scripting runtime version is the default in Unity 2018.3 and higher.
 
 2. Clone this repository and use the Package Manager `Window > Package Manager` to add the package.json located in the root of this repository.
 
